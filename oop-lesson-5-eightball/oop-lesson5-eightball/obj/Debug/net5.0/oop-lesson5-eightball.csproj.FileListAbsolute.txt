@@ -1,0 +1,16 @@
+C:\Users\madel\source\repos\oop-lesson5-eightball\oop-lesson5-eightball\bin\Debug\net5.0\oop-lesson5-eightball.exe
+C:\Users\madel\source\repos\oop-lesson5-eightball\oop-lesson5-eightball\bin\Debug\net5.0\oop-lesson5-eightball.deps.json
+C:\Users\madel\source\repos\oop-lesson5-eightball\oop-lesson5-eightball\bin\Debug\net5.0\oop-lesson5-eightball.runtimeconfig.json
+C:\Users\madel\source\repos\oop-lesson5-eightball\oop-lesson5-eightball\bin\Debug\net5.0\oop-lesson5-eightball.runtimeconfig.dev.json
+C:\Users\madel\source\repos\oop-lesson5-eightball\oop-lesson5-eightball\bin\Debug\net5.0\oop-lesson5-eightball.dll
+C:\Users\madel\source\repos\oop-lesson5-eightball\oop-lesson5-eightball\bin\Debug\net5.0\ref\oop-lesson5-eightball.dll
+C:\Users\madel\source\repos\oop-lesson5-eightball\oop-lesson5-eightball\bin\Debug\net5.0\oop-lesson5-eightball.pdb
+C:\Users\madel\source\repos\oop-lesson5-eightball\oop-lesson5-eightball\obj\Debug\net5.0\oop-lesson5-eightball.csproj.AssemblyReference.cache
+C:\Users\madel\source\repos\oop-lesson5-eightball\oop-lesson5-eightball\obj\Debug\net5.0\oop-lesson5-eightball.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madel\source\repos\oop-lesson5-eightball\oop-lesson5-eightball\obj\Debug\net5.0\oop-lesson5-eightball.AssemblyInfoInputs.cache
+C:\Users\madel\source\repos\oop-lesson5-eightball\oop-lesson5-eightball\obj\Debug\net5.0\oop-lesson5-eightball.AssemblyInfo.cs
+C:\Users\madel\source\repos\oop-lesson5-eightball\oop-lesson5-eightball\obj\Debug\net5.0\oop-lesson5-eightball.csproj.CoreCompileInputs.cache
+C:\Users\madel\source\repos\oop-lesson5-eightball\oop-lesson5-eightball\obj\Debug\net5.0\oop-lesson5-eightball.dll
+C:\Users\madel\source\repos\oop-lesson5-eightball\oop-lesson5-eightball\obj\Debug\net5.0\ref\oop-lesson5-eightball.dll
+C:\Users\madel\source\repos\oop-lesson5-eightball\oop-lesson5-eightball\obj\Debug\net5.0\oop-lesson5-eightball.pdb
+C:\Users\madel\source\repos\oop-lesson5-eightball\oop-lesson5-eightball\obj\Debug\net5.0\oop-lesson5-eightball.genruntimeconfig.cache
